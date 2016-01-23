@@ -2,7 +2,7 @@
 
 Thanks for contributing to where@!  To get started:
 
-1. Sign the [Contributor License Agreement](https://www.clahub.com/agreements/whereat/whereat-android).
+1. Sign the [Contributor Agreement](https://www.clahub.com/agreements/whereat/whereat-android).
 2. Fork the repo and do work in a feature branch.
 3. Write tests for all new code.
 4. Make sure all new and pre-existing tests pass.
